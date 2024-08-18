@@ -140,19 +140,19 @@ header {
   margin-bottom: 27px;
 }
 .card_type_film {
-  background-image: url(/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
   height: 563px;
   width: 334px;
   background-size: cover;
 }
 .card_type_book {
-  background-image: url(/images/card-lot-02.jpg);
+  background-image: url(../images/card-lot-02.jpg);
   height: 563px;
   width: 334px;
   background-size: cover;
 }
 .card_type_picture {
-  background-image: url(/images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-03.jpg);
   height: 563px;
   width: 334px;
   background-size: cover;
