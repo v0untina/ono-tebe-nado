@@ -1,5 +1,5 @@
 header {
-  padding: 77px 24px 96px 24px;
+  padding: 77px 24px 90px 24px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -11,6 +11,7 @@ header {
   display: block;
   width: 140px;
   margin-left: 38px;
+  margin-top: 13px;
 }
 .header__logo-image {
   width: 100%;
@@ -27,7 +28,7 @@ header {
 .header__links-list {
   display: flex;
   flex-direction: row;
-  gap: 32px;
+  gap: 33px;
   align-items: center;
 }
 .header__links-list-item_no-bullit {
@@ -36,9 +37,9 @@ header {
 }
 .address {
   margin-top: 19px;
-  margin-right: 62px;
+  margin-right: 61px;
   margin-left: 184px;
-  margin-bottom: 2px;
+  margin-bottom: 4px;
 }
 .header__address {
   font-style: normal;
@@ -91,7 +92,6 @@ header {
 }
 .aligned-text_right {
   margin-top: 2px;
-  margin-right: 5px;
   display: flex;
   justify-content: flex-end;
   margin-right: 50px;
@@ -231,7 +231,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 44px;
+  margin-left: 46px;
   margin-top: 12px;
 }
 .about__logo-image {
