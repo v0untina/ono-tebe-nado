@@ -283,7 +283,7 @@ footer {
   flex-direction: column;
   gap: 3px;
   font-style: normal;
-
+  width:210px;
 }
 .footer__menu-link_active {
   text-decoration: none;
